@@ -1,0 +1,8 @@
+{
+  "name": "@devdeadly/ses-forwarder",
+  "description": "Forward emails intended for @devdead.ly",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.1048.0"
+  }
+}
